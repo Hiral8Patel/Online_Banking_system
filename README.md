@@ -98,5 +98,5 @@ http://localhost:8080
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Hiral Patel**, a second-year engineering student specializing in **Artificial Intelligence & Data Science**.
+Hi, I’m **Hiral Patel**, an aspiring engineering student specializing in **Artificial Intelligence & Data Science**.
 I enjoy building backend systems, exploring real-world applications of software engineering, and working on impactful projects.
